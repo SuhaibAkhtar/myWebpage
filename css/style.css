@@ -1,0 +1,153 @@
+
+aside img
+{
+    font-size: 30px;
+    float: left;
+    width: 36%;
+
+}
+
+
+.Description{
+    width:64%;
+    float: right;
+    background-color:lightgray;
+    
+}
+body{
+    background-color:white;
+}
+p,h2,button,input{
+    padding: 10px 10px;
+    margin :20px 20px;
+}
+.header {
+    background-color: whitesmoke;
+/*    padding: 2px 2px 2px 2px;*/
+    font-size: 20px;
+
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.navigation{ 
+    padding: 10px 10px 10px 10px;
+    
+}
+.navigation a
+{
+    color: dimgrey;
+    text-decoration: none;
+    font-style: italic;
+    
+}
+
+.navigation a.a{
+    float: right;
+    margin-left: 10px;
+}
+.navigation a:hover
+{
+    background-color: azure;
+/*    border: 2px solid black;*/
+}
+
+#black {
+    margin-bottom: 20px;
+}
+.product{
+    background-color: whitesmoke;
+    
+    
+}
+
+
+.buy:hover{
+    background-color: black;
+    color: white;
+}
+
+
+/*
+.second{
+    text-align: center;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+}
+*/
+
+/*
+h3,h4{
+    text-align: center;
+    
+}
+*/
+
+.first{
+    width:33.33%;
+    float: right;
+    background-color: whitesmoke;
+}
+
+.third{
+    background-color: whitesmoke;
+    width: 33.33%;
+    margin: 0 auto;
+}
+.second2{
+    float : left;
+    background-color: whitesmoke;
+    width: 33.33%;
+}
+
+
+
+
+.part1{
+  width:50%;
+    float: left;
+    background-color: azure;
+}
+.sunglass{
+    float:right;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.part2{
+    width:50%;
+    float: right;
+    background-color: antiquewhite;
+}
+
+.sec1{
+    width: 33.33%;
+    background-color: whitesmoke;
+    float: right;
+}
+.sec2{
+    width: 33.33%;
+    background-color: whitesmoke;
+    float: left;
+}
+.sec3{
+    width: 33.33%;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.foot{
+    float: right;
+    
+}
